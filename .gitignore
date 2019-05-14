@@ -74,8 +74,10 @@ Plugins/*/Intermediate/*
 DerivedDataCache/*
 
 # ÇªÇÃëºÅAÇ¢ÇÁÇ»Ç≥ÇªÇ§Ç»Ç‡ÇÃ
-Content/Asset
-Content/Blueprint
+Content/Asset/MapObject
+Content/Asset/MG123D_ckpoint
+Content/Asset/MG123D_prayerEF_Invert
+Content/Asset/MG123D_prayerEF_jump
 Content/Collections
 Content/Developers
 Content/Geometry
