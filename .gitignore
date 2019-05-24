@@ -73,7 +73,7 @@ Plugins/*/Intermediate/*
 # Cache files for the editor to use
 DerivedDataCache/*
 
-# ���̑��A����Ȃ������Ȃ���
+# ���̑��A����Ȃ������Ȃ��
 Content/Collections
 Content/Developers
 Content/Geometry
@@ -83,3 +83,50 @@ Content/StarterContent
 WindowsNoEditor/*
 
 
+Content/Asset/プロ生ちゃん/b.uasset
+Content/Asset/プロ生ちゃん/BODY_skin.uasset
+Content/Asset/プロ生ちゃん/BODY_skin_003.uasset
+Content/Asset/プロ生ちゃん/BODY_skin_002.uasset
+Content/Asset/プロ生ちゃん/BODY_skin_001.uasset
+Content/Asset/プロ生ちゃん/マテリアル_007.uasset
+Content/Asset/プロ生ちゃん/マテリアル_003.uasset
+Content/Asset/プロ生ちゃん/マテリアル_002.uasset
+Content/Asset/プロ生ちゃん/マテリアル_001.uasset
+Content/Asset/プロ生ちゃん/tokei.uasset
+Content/Asset/プロ生ちゃん/spats.uasset
+Content/Asset/プロ生ちゃん/kutushita.uasset
+Content/Asset/プロ生ちゃん/hadashi.uasset
+Content/Asset/プロ生ちゃん/PronamaEx_Skeleton.uasset
+Content/Asset/プロ生ちゃん/PronamaEx_PhysicsAsset.uasset
+Content/Asset/プロ生ちゃん/PronamaEx.uasset
+Content/Asset/プロ生ちゃん/Dress_004.uasset
+Content/Asset/プロ生ちゃん/Dress_003.uasset
+Content/Asset/プロ生ちゃん/Dress_002.uasset
+Content/Asset/プロ生ちゃん/Dress_001.uasset
+Content/Asset/プロ生ちゃん/Dress_000.uasset
+Content/Asset/プロ生ちゃん/BODY_skin_004.uasset
+Content/Asset/プロ生ちゃん/Tex_skin.uasset
+Content/Asset/プロ生ちゃん/Tex_hair.uasset
+Content/Asset/プロ生ちゃん/Tex_face.uasset
+Content/Asset/プロ生ちゃん/Tex_eyes.uasset
+Content/Asset/プロ生ちゃん/Tex_eyelight.uasset
+Content/Asset/プロ生ちゃん/Tex_Dress.uasset
+Content/Asset/プロ生ちゃん/P_hair_004.uasset
+Content/Asset/プロ生ちゃん/P_hair_003.uasset
+Content/Asset/プロ生ちゃん/P_hair_002.uasset
+Content/Asset/プロ生ちゃん/P_hair_001.uasset
+Content/Asset/プロ生ちゃん/P_hair.uasset
+Content/Asset/プロ生ちゃん/Dress_005.uasset
+Content/Asset/プロ生ちゃん/sp4.uasset
+Content/Asset/プロ生ちゃん/sita.uasset
+Content/Asset/プロ生ちゃん/rim3.uasset
+Content/Asset/プロ生ちゃん/pronama_skirt.uasset
+Content/Asset/プロ生ちゃん/kutusita_001.uasset
+Content/Asset/プロ生ちゃん/kutusita.uasset
+Content/Asset/プロ生ちゃん/ha.uasset
+Content/Asset/プロ生ちゃん/eye_002.uasset
+Content/Asset/プロ生ちゃん/eye_001.uasset
+Content/Asset/プロ生ちゃん/eye.uasset
+Content/Asset/プロ生ちゃん/Polygon_001.uasset
+Content/Asset/プロ生ちゃん/Polygon_000.uasset
+Content/Asset/プロ生ちゃん/P_hair_005.uasset
